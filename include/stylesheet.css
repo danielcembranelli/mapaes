@@ -1,0 +1,59 @@
+.boxborder	{
+		BORDER-COLOR			: #000000;
+		BORDER-STYLE			: solid;
+		BORDER-WIDTH			: 1px;
+		}
+
+.toplink	{
+		WIDTH				: 100%;
+		COLOR				: #000000;
+		CURSOR				: hand
+		}
+
+.mainTable	{
+		BACKGROUND-COLOR		: #F4FAFF;
+		}
+
+.mainTableAlt	{
+		BACKGROUND-COLOR		: #FFFFFF;
+		}
+
+.mainTableOn	{
+		BACKGROUND-COLOR		: #FFFFF0;
+		}
+
+FORM		{
+		MARGIN				: 0px 0px 0px 0px;
+		PADDING				: 0px 0px 0px 0px;
+		}
+
+TABLE		{
+		BORDER-COLLAPSE			: Collapse;
+		}
+
+
+A		{
+		FONT-FAMILY			: Tahoma, Helvetica, sans-serif;
+		FONT-SIZE			: 11px;
+		COLOR				: NAVY;
+		TEXT-DECORATION		: none;
+		}
+
+A:hover		{
+		COLOR				: BLUE;
+		TEXT-DECORATION		: none;
+		}
+
+P		{
+		FONT-FAMILY			: Tahoma, Helvetica, sans-serif;
+		FONT-SIZE			: 11px;
+		COLOR				: BLACK;
+		PADDING-LEFT		: 3px;
+		}
+
+LI		{
+		LIST-STYLE-TYPE		: square;
+		FONT-FAMILY			: Tahoma, Helvetica, sans-serif;
+		FONT-SIZE			: 11px;
+		COLOR				: #CC0000;
+		}

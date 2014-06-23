@@ -1,0 +1,12 @@
+&title=Pie+Chart,{font-size:18px; color: #d01f3c}&
+&x_axis_steps=1&
+&y_ticks=5,10,5&
+&line=3,#87421F&
+&y_min=0&
+&y_max=20&
+&pie=60,#E4F0DB,{display:none;},1,,1&
+&values=8,14,12,10,15&
+&pie_labels=IE,Firefox,Opera,Wii,Other,Slashdot&
+&colours=#d01f3c,#356aa0,#C79810&
+&links=javascript:alert('8'),javascript:alert('14'),javascript:alert('12'),javascript:alert('10'),javascript:alert('15')&
+&tool_tip=Label%3A+%23x_label%23%3Cbr%3EValue%3A+%23val%23%25%26&
